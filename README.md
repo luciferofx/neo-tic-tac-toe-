@@ -45,4 +45,4 @@ Love neo-tic-tac-toe? Help me keep it alive & growing! Your support means everyt
 1. Clone the repository:
    ```bash
    git clone https://github.com/luciferofx/neo-tic-tac-toe-.git
-   cd ticstrike
+   cd neo-tic-tac-toe-
